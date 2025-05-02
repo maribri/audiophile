@@ -1,7 +1,7 @@
 
 # Audiophile E-store Demo Project
 
-## 🔗 [**Live Demo**](https://maribri.github.io/audiophile-temp/dist/index.html)
+## 🔗 [**Live Demo**](https://maribri.github.io/audiophile/dist/index.html)
 
 **TechStack:** HTML5, SCSS, Vanilla JS, Gulp.
 
@@ -67,7 +67,7 @@ Below is a curated list of features and best practices that allows you to quickl
 
 ## Setup Instructions
 
-**Live Demo:** You can see a live demo of this project [here](https://maribri.github.io/audiophile-temp/dist/index.html).
+**Live Demo:** You can see a live demo of this project [here](https://maribri.github.io/audiophile/dist/index.html).
 
 To set up this project locally, follow these simple steps:
 
